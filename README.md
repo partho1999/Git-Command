@@ -14,27 +14,27 @@
 
 - git push -u origin master/ branch_name
 
-## New file Or Updated code Upload in Execting Repo via git:
+## New file Or Updated Code Upload in Execting Repo via git:
 - git add .
 
 - git commit -m "message"
 
 - git push origin master/ branch_name
 
-## Git clone:
+## Git Clone:
 - git clone 'repo_link'
 
-## Git pull:
+## Git Pull:
 - git pull
 
-## Git branch create, check and delete:
-### create:
+## Git Branch Create, Check and Delete:
+### Create:
 - git branch 'branchname' / git branch -d 'branchname'
 
-### check:
+### Check:
 - git branch
 
-### delete:
+### Delete:
 - git branch -d 'branchname'
 
 ## Switching Branches:
