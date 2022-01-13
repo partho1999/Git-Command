@@ -27,5 +27,18 @@
 ## Git pull:
 - git pull
 
+## Git branch create, check and delete:
+### create:
+- git branch 'branchname'
+
+### check:
+- git branch
+
+### delete:
+- git branch -d 'branchname'
+
+
+
+
 ## GitDocs Link:
 Link: https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
