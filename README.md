@@ -1,4 +1,4 @@
-# Git-Commands
+# Git-Commands:-
 ## New Project file Upload via git:
 0.create a new repo and copy the url
 1.git int
@@ -15,5 +15,5 @@
 0.git clone 'repo_link'
 ## Git pull:
 0.git pull
-## gitDocs Link:
+## GitDocs Link:
 Link: https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
