@@ -1,18 +1,18 @@
 # Git-Commands:-
 ## New Project file Upload via git:
-0.create a new repo and copy the url
+- create a new repo and copy the url
 
-1.git int
+- git int
 
-2.git add .
+- git add .
 
-3.git status
+- git status
 
-4.git commit -m 'first commit'
+- git commit -m 'first commit'
 
-5.git remote add origin 'your repo url'
+- git remote add origin 'your repo url'
 
-6.git push -u origin master/ branch_name
+- git push -u origin master/ branch_name
 
 ## New file Or Updated code Upload in Execting Repo via git:
 0.git add .
