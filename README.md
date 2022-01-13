@@ -29,16 +29,22 @@
 
 ## Git Branch Create, Check and Delete:
 ### Create:
-- git branch 'branchname' / git branch -d 'branchname'
+- git branch 'branchname' / git checkout -b 'branchname'
 
 ### Check:
 - git branch
 
 ### Delete:
-- git branch -d 'branchname'
+- git branch -d 'branchname' / git branch -d 'branchname' 
 
 ## Switching Branches:
 - git checkout 'branchname'
+
+## Create And Switching Branches Together:
+- git checkout -b ＜new-branch＞ ＜existing-branch＞
+
+## Git Shash:
+- git stash
 
 
 
