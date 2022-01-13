@@ -15,17 +15,17 @@
 - git push -u origin master/ branch_name
 
 ## New file Or Updated code Upload in Execting Repo via git:
-0.git add .
+- git add .
 
-1.git commit -m "message"
+- git commit -m "message"
 
-2.git push origin master/ branch_name
+- git push origin master/ branch_name
 
 ## Git clone:
-0.git clone 'repo_link'
+- git clone 'repo_link'
 
 ## Git pull:
-0.git pull
+- git pull
 
 ## GitDocs Link:
 Link: https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
