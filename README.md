@@ -2,7 +2,7 @@
 ## New Project file Upload via git:
 - create a new repo and copy the url
 
-- git int
+- git init
 
 - git add .
 
