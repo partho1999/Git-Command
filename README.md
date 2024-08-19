@@ -27,6 +27,9 @@
 ## Git Pull:
 - git pull
 
+## Git File Unstage:
+- git restore --staged <file>
+
 ## Git Branch Create, Check and Delete:
 ### Create:
 - git branch 'branchname' / git checkout -b 'branchname'
