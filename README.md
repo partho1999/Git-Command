@@ -49,8 +49,8 @@
 ## Git Shash:
 - git stash
   
-## remove folder
-- git rm -r --cached venv
+## Remove folder
+- git rm -r --cached [foldername]
 
 
 
